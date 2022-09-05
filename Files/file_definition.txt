@@ -1,0 +1,6 @@
+
+A computer file is a computer resource for recording data discrete
+ly in a
+computer storage device. Just as words can be written
+to paper, so can information be written to a computer
+this is overriden

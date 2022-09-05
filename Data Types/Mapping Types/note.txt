@@ -1,0 +1,5 @@
+Dictionary:
+•dictionaries are unordered sets. 
+•However, the main difference is that items in dictionaries are accessed via keys
+and not via their position.
+•Dictionaries are implemented as hash tables,

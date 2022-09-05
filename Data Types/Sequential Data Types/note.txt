@@ -1,0 +1,29 @@
+Sequences are one of principal built-in data types besides numerics, mappings, files, instances and exceptions.
+Python provides six sequence data types:
+> strings
+> byte Sequences
+> byte array
+> lists
+> tuples
+> range objects
+
+>> The items or elements of strings, lists and tuples are ordered in a defined Sequences
+>> The elements can be accessed by index
+
+List:
+• They are ordered
+• The contain arbitrary objects
+• Elements of a list can be accessed by an index
+• They are arbitrarily nestable, i.e. they can contain other lists as sublists
+• Variable size
+• They are mutable, i.e. the elements of a list can be changed
+
+Tuples:
+•A tuple is an immutable list, i.e. a tuple cannot be changed in any way, once it has been created
+•Tuples are faster than lists.
+•If you know that some data doesn't have to be changed, you should
+use tuples instead of lists, because this protects your data agains
+t accidental changes.
+•The main advantage of tuples is that tuples can be used as keys i
+n dictionaries, while lists can't.
+
